@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio velasquez</h1>
 <h3 align="center">A passionate Fullstack developer from Colombia</h3>
 
-<p align="center"> 🔭 With 2 years and 6 months of experience, specialized in web application development. I have worked on projects ranging from architecture design to front-end and back-end implementation, giving me a global perspective on the development process.</p>
+<p align="center"> 🔭 With 4 years of experience, specialized in web application development. I have worked on projects ranging from architecture design to front-end and back-end implementation, giving me a global perspective on the development process.</p>
 <p align="center"> ❤️I like to create personal projects and put them at the service of the community.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
